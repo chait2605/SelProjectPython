@@ -26,3 +26,56 @@ Line: 1745, column: 1
 1491294206908	Marionette	INFO	sendAsync 1f8b446b-779c-4033-9143-d70527881b85
 1491294207157	Marionette	INFO	sendAsync 1f8b446b-779c-4033-9143-d70527881b85
 1491294212255	Marionette	INFO	sendAsync 1f8b446b-779c-4033-9143-d70527881b85
+1491296941286	geckodriver	INFO	Listening on 127.0.0.1:64715
+1491296943264	mozprofile::profile	INFO	Using profile path C:\Users\SRIKUC~1\AppData\Local\Temp\rust_mozprofile.sOP8LKbcCaNK
+1491296943279	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1491296943708	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64723
+1491296945752	Marionette	INFO	Listening on port 64723
+1491296947505	Marionette	INFO	startBrowser cc13e2b1-c8f9-4e4a-947d-ed8c13d01557
+1491296947516	Marionette	INFO	sendAsync cc13e2b1-c8f9-4e4a-947d-ed8c13d01557
+1491296948133	Marionette	INFO	sendAsync cc13e2b1-c8f9-4e4a-947d-ed8c13d01557
+1491296953347	Marionette	INFO	sendAsync cc13e2b1-c8f9-4e4a-947d-ed8c13d01557
+1491296953359	Marionette	INFO	sendAsync cc13e2b1-c8f9-4e4a-947d-ed8c13d01557
+1491296953424	Marionette	INFO	sendAsync cc13e2b1-c8f9-4e4a-947d-ed8c13d01557
+1491297007803	geckodriver	INFO	Listening on 127.0.0.1:64814
+1491297009840	mozprofile::profile	INFO	Using profile path C:\Users\SRIKUC~1\AppData\Local\Temp\rust_mozprofile.OzvLP8rRwKln
+1491297009896	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1491297009915	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64821
+1491297011819	Marionette	INFO	Listening on port 64821
+1491297013064	Marionette	INFO	startBrowser b6f7585b-03f4-404f-addd-0ebbb61ca2bc
+1491297013075	Marionette	INFO	sendAsync b6f7585b-03f4-404f-addd-0ebbb61ca2bc
+1491297013307	Marionette	INFO	sendAsync b6f7585b-03f4-404f-addd-0ebbb61ca2bc
+1491297074709	Marionette	INFO	sendAsync b6f7585b-03f4-404f-addd-0ebbb61ca2bc
+1491297074717	Marionette	INFO	sendAsync b6f7585b-03f4-404f-addd-0ebbb61ca2bc
+1491297074731	Marionette	INFO	sendAsync b6f7585b-03f4-404f-addd-0ebbb61ca2bc
+1491297086407	geckodriver	INFO	Listening on 127.0.0.1:64929
+1491297088473	mozprofile::profile	INFO	Using profile path C:\Users\SRIKUC~1\AppData\Local\Temp\rust_mozprofile.KBUh7aPnFVBn
+1491297088481	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1491297088502	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64936
+1491297089273	Marionette	INFO	Listening on port 64936
+1491297090619	Marionette	INFO	startBrowser ae853fb2-4a10-4b23-9556-9f547be813ce
+1491297090632	Marionette	INFO	sendAsync ae853fb2-4a10-4b23-9556-9f547be813ce
+1491297090861	Marionette	INFO	sendAsync ae853fb2-4a10-4b23-9556-9f547be813ce
+1491297100170	Marionette	INFO	sendAsync ae853fb2-4a10-4b23-9556-9f547be813ce
+1491297100180	Marionette	INFO	sendAsync ae853fb2-4a10-4b23-9556-9f547be813ce
+1491297100190	Marionette	INFO	sendAsync ae853fb2-4a10-4b23-9556-9f547be813ce
+1491297132206	geckodriver	INFO	Listening on 127.0.0.1:65036
+1491297134273	mozprofile::profile	INFO	Using profile path C:\Users\SRIKUC~1\AppData\Local\Temp\rust_mozprofile.vd5OZGFTWxTW
+1491297134277	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1491297134297	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65043
+1491297135070	Marionette	INFO	Listening on port 65043
+1491297136373	Marionette	INFO	startBrowser d1c8f517-8e50-4461-a770-314713ed1bbd
+1491297136387	Marionette	INFO	sendAsync d1c8f517-8e50-4461-a770-314713ed1bbd
+1491297246560	geckodriver	INFO	Listening on 127.0.0.1:65130
+1491297248617	mozprofile::profile	INFO	Using profile path C:\Users\SRIKUC~1\AppData\Local\Temp\rust_mozprofile.P3BEiJgYhWCR
+1491297248621	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1491297248639	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65137
+1491297249332	Marionette	INFO	Listening on port 65137
+1491297250734	Marionette	INFO	startBrowser 5d4ec602-a83a-4933-addc-177a0e7be23b
+1491297250747	Marionette	INFO	sendAsync 5d4ec602-a83a-4933-addc-177a0e7be23b
+1491297250979	Marionette	INFO	sendAsync 5d4ec602-a83a-4933-addc-177a0e7be23b
+JavaScript error: https://s.yimg.com/gs/apex/mediastore/442b285f-f32f-4c51-9c6e-a42d7798310f/c305c611-5506-44c5-91dd-5163a86a2153.html, line 157: ReferenceError: ctaDrop is not defined
+1491297258897	Marionette	INFO	sendAsync 5d4ec602-a83a-4933-addc-177a0e7be23b
+1491297258923	Marionette	INFO	sendAsync 5d4ec602-a83a-4933-addc-177a0e7be23b
+1491297258930	Marionette	INFO	sendAsync 5d4ec602-a83a-4933-addc-177a0e7be23b
+1491297259034	Marionette	INFO	sendAsync 5d4ec602-a83a-4933-addc-177a0e7be23b
