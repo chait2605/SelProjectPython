@@ -1,0 +1,28 @@
+1491293910211	geckodriver	INFO	Listening on 127.0.0.1:61618
+1491293912416	mozprofile::profile	INFO	Using profile path C:\Users\SRIKUC~1\AppData\Local\Temp\rust_mozprofile.kIQa5K9NpS0v
+1491293912421	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1491293912440	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61627
+1491293915256	Marionette	INFO	Listening on port 61627
+1491293917076	Marionette	INFO	startBrowser b3e76835-00c6-4c6c-93c1-0e43846185ca
+1491293917088	Marionette	INFO	sendAsync b3e76835-00c6-4c6c-93c1-0e43846185ca
+JavaScript error: , line 0: NetworkError: A network error occurred.
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1745:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1682:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1745, column: 1
+console.error: 
+  Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1745:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1682:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1745, column: 1
+1491294202904	geckodriver	INFO	Listening on 127.0.0.1:62229
+1491294204991	mozprofile::profile	INFO	Using profile path C:\Users\SRIKUC~1\AppData\Local\Temp\rust_mozprofile.ga6SwLSCbCJY
+1491294204998	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1491294205021	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62237
+1491294205740	Marionette	INFO	Listening on port 62237
+1491294206895	Marionette	INFO	startBrowser 1f8b446b-779c-4033-9143-d70527881b85
+1491294206908	Marionette	INFO	sendAsync 1f8b446b-779c-4033-9143-d70527881b85
+1491294207157	Marionette	INFO	sendAsync 1f8b446b-779c-4033-9143-d70527881b85
+1491294212255	Marionette	INFO	sendAsync 1f8b446b-779c-4033-9143-d70527881b85
